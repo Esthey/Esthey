@@ -1,8 +1,8 @@
-. 👋 Hi there,my name is Esther
+- 👋 Hi there,my name is Esther
 
-. 👋 I'm a Data and Business Intelligence Analyst
+- 👋 I'm a Data and Business Intelligence Analyst
 
-. 👀 I’m interested in Data and Business Analytics
+- 👀 I’m interested in Data and Business Analytics
 
 - 🌱 I currently use Python, SQL, Excel and Business Intelligence tools like PowerBi and Tableau for data querrying, manipulation and visualization
 
